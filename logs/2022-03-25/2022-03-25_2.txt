@@ -1,0 +1,23 @@
+2022-03-25 22:11:29 [main] INFO 
+            lab5.run.Main - Min radius circle: Circle {radius = 1, center = Point{x=0, y=0}, area = 3,14, circumference = 6,28}
+
+2022-03-25 22:12:09 [main] INFO 
+            lab5.run.Main - 2 collinear group
+[Circle {radius = 3, center = Point{x=-10, y=5}, area = 28,27, circumference = 18,85}
+, Circle {radius = 5, center = Point{x=0, y=0}, area = 78,54, circumference = 31,42}
+]
+2022-03-25 22:12:09 [main] INFO 
+            lab5.run.Main - 4 collinear group
+[Circle {radius = 1, center = Point{x=3, y=1}, area = 3,14, circumference = 6,28}
+, Circle {radius = 2, center = Point{x=-5, y=-5}, area = 12,57, circumference = 12,57}
+]
+2022-03-25 22:12:09 [main] INFO 
+            lab5.run.Main - 3 collinear group
+[Circle {radius = 2, center = Point{x=0, y=2}, area = 12,57, circumference = 12,57}
+, Circle {radius = 3, center = Point{x=5, y=8}, area = 28,27, circumference = 18,85}
+]
+2022-03-25 22:12:09 [main] INFO 
+            lab5.run.Main - 1 collinear group
+[Circle {radius = 1, center = Point{x=0, y=0}, area = 3,14, circumference = 6,28}
+, Circle {radius = 2, center = Point{x=-5, y=10}, area = 12,57, circumference = 12,57}
+]

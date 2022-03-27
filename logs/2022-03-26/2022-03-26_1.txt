@@ -1,0 +1,19 @@
+2022-03-26 18:20:03 [main] INFO 
+            lab5.run.Main - Max radius circle: Circle {radius = 5, center = Point{x=-2, y=10}, area = 78,54, circumference = 31,42}
+
+2022-03-26 18:20:03 [main] INFO 
+            lab5.run.Main - Min radius circle: Circle {radius = 1, center = Point{x=10, y=10}, area = 3,14, circumference = 6,28}
+
+2022-03-26 18:20:24 [main] INFO 
+            lab5.run.Main - Groups of circles lying on the same line (with collinear centers): 
+
+2022-03-26 18:20:24 [main] INFO 
+            lab5.run.Main - [Circle {radius = 1, center = Point{x=10, y=10}, area = 3,14, circumference = 6,28}
+, Circle {radius = 2, center = Point{x=10, y=10}, area = 12,57, circumference = 12,57}
+, Circle {radius = 3, center = Point{x=5, y=5}, area = 28,27, circumference = 18,85}
+, Circle {radius = 2, center = Point{x=8, y=8}, area = 12,57, circumference = 12,57}
+, Circle {radius = 1, center = Point{x=20, y=20}, area = 3,14, circumference = 6,28}
+]
+2022-03-26 18:20:24 [main] INFO 
+            lab5.run.Main - Max radius circle: Circle {radius = 5, center = Point{x=-2, y=10}, area = 78,54, circumference = 31,42}
+
